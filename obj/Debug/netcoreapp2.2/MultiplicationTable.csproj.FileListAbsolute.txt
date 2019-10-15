@@ -1,0 +1,11 @@
+/Users/rtongson/Documents/csharp/fundamentals/MultiplicationTable/bin/Debug/netcoreapp2.2/MultiplicationTable.deps.json
+/Users/rtongson/Documents/csharp/fundamentals/MultiplicationTable/bin/Debug/netcoreapp2.2/MultiplicationTable.runtimeconfig.json
+/Users/rtongson/Documents/csharp/fundamentals/MultiplicationTable/bin/Debug/netcoreapp2.2/MultiplicationTable.runtimeconfig.dev.json
+/Users/rtongson/Documents/csharp/fundamentals/MultiplicationTable/bin/Debug/netcoreapp2.2/MultiplicationTable.dll
+/Users/rtongson/Documents/csharp/fundamentals/MultiplicationTable/bin/Debug/netcoreapp2.2/MultiplicationTable.pdb
+/Users/rtongson/Documents/csharp/fundamentals/MultiplicationTable/obj/Debug/netcoreapp2.2/MultiplicationTable.csprojAssemblyReference.cache
+/Users/rtongson/Documents/csharp/fundamentals/MultiplicationTable/obj/Debug/netcoreapp2.2/MultiplicationTable.csproj.CoreCompileInputs.cache
+/Users/rtongson/Documents/csharp/fundamentals/MultiplicationTable/obj/Debug/netcoreapp2.2/MultiplicationTable.AssemblyInfoInputs.cache
+/Users/rtongson/Documents/csharp/fundamentals/MultiplicationTable/obj/Debug/netcoreapp2.2/MultiplicationTable.AssemblyInfo.cs
+/Users/rtongson/Documents/csharp/fundamentals/MultiplicationTable/obj/Debug/netcoreapp2.2/MultiplicationTable.dll
+/Users/rtongson/Documents/csharp/fundamentals/MultiplicationTable/obj/Debug/netcoreapp2.2/MultiplicationTable.pdb
